@@ -1,0 +1,22 @@
+{
+  "wheel_id": 949,
+  "structure": "umbrella",
+  "slug": "bathrenovationmelbourne-106",
+  "project": "bathroom-renovations-melbourne-quotes-explained-c184367159ba8a3",
+  "parent_t1_ref": "bathrenovationmelbourne-152",
+  "node_role": "feeder",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bathroom renovations melbourne quotes explained",
+  "intended_url": "https://sites-e470-2.web.app/bathroom-renovations-melbourne-quotes-explained-c184367159ba8a3/",
+  "tier": "T2",
+  "writeback_nonce": "385032a460bc6358",
+  "links": [
+    {
+      "target_url": "http://bathroom-renovations-melbourne-myths-3ad0462a9ec1a0e44050381201.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "bathroom renovations melbourne myths",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
